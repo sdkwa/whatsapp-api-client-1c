@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="Configuration.Конфигурация" id="a7dc518d-fa86-4892-a7af-ba2aca88ad30" configVersion="4f439ff37a46224c9a6e180a9bc8ce7700000000"/>
+		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="53c341e0-4783-470a-8069-53c443833285.8" configVersion="216961235c30784da41fddf47f694dd100000000"/>
+		<Metadata name="DataProcessor.SDKWA" id="c7a0c435-ff2f-4f23-b5f8-12c0a0031561" configVersion="9ad45dd4f6431549b320093a2238f51100000000">
+			<Metadata name="DataProcessor.SDKWA.Attribute.ТекстПолученноеСообщение" id="260d31c6-e4f2-4778-bd5a-fd2d1bbfba7f"/>
+			<Metadata name="DataProcessor.SDKWA.Attribute.ApiToken" id="40c96af2-b161-4acc-a444-6eacfde9aaad"/>
+			<Metadata name="DataProcessor.SDKWA.Attribute.IdInstance" id="41db95e2-482b-4e81-93af-a82b704ccc02"/>
+			<Metadata name="DataProcessor.SDKWA.Attribute.ПолученФайл" id="860dfc21-c910-4bf6-95ff-ca71dd975667"/>
+		</Metadata>
+		<Metadata name="DataProcessor.SDKWA.Form.ВыборСсылкиНаФайл" id="439b9c39-938c-4872-b079-9520e74b8473" configVersion="3645aa7febc73541b78a82fdf391796500000000"/>
+		<Metadata name="DataProcessor.SDKWA.Form.ВыборСсылкиНаФайл.Form" id="439b9c39-938c-4872-b079-9520e74b8473.0" configVersion="4aff4243f196844189741bc419b96a1400000000"/>
+		<Metadata name="DataProcessor.SDKWA.Form.ПомощникПодключения" id="21af060b-36d6-4144-aca7-290e47c884b1" configVersion="e41764c34daaa94c9399e2d21a9e5a7100000000"/>
+		<Metadata name="DataProcessor.SDKWA.Form.ПомощникПодключения.Form" id="21af060b-36d6-4144-aca7-290e47c884b1.0" configVersion="5bc7632f991dde489e8644d033c18a0e00000000"/>
+		<Metadata name="DataProcessor.SDKWA.Form.Форма" id="cbac5b2b-5bb0-4fff-9e8f-28d494138098" configVersion="3d0a95a031dc4549b5bd08277f9b2ce100000000"/>
+		<Metadata name="DataProcessor.SDKWA.Form.Форма.Form" id="cbac5b2b-5bb0-4fff-9e8f-28d494138098.0" configVersion="ccb38244db781447aa53edef33bdd40f00000000"/>
+		<Metadata name="DataProcessor.SDKWA.ObjectModule" id="c7a0c435-ff2f-4f23-b5f8-12c0a0031561.0" configVersion="93d388a1c7dcee48ac47fc294a404c5e00000000"/>
+		<Metadata name="DataProcessor.SDKWA.Template.QRМакет" id="48c29a2f-a511-4612-86ed-2ccc82cc294b" configVersion="6a1ce824d23c7f48beb69c06ddd6f28b00000000"/>
+		<Metadata name="DataProcessor.SDKWA.Template.QRМакет.Template" id="48c29a2f-a511-4612-86ed-2ccc82cc294b.0" configVersion="a16aa192b9ed1d4d899a1b40e5ac680d00000000"/>
+		<Metadata name="DataProcessor.SDKWA.Template.ВыборАккаунта" id="e975b9da-c08a-4e19-bdac-abe7ef7db7b3" configVersion="d73773d991fd544a9d2792be9f3d0f2800000000"/>
+		<Metadata name="DataProcessor.SDKWA.Template.ВыборАккаунта.Template" id="e975b9da-c08a-4e19-bdac-abe7ef7db7b3.0" configVersion="0c7d3f1a33e58540bdf583290923946300000000"/>
+		<Metadata name="DataProcessor.SDKWA.Template.ДанныеАккаунта" id="cbf18ee8-d3d4-44ba-b668-8ab14a46b546" configVersion="91506336e66af2448f34135218b2f77700000000"/>
+		<Metadata name="DataProcessor.SDKWA.Template.ДанныеАккаунта.Template" id="cbf18ee8-d3d4-44ba-b668-8ab14a46b546.0" configVersion="e74a835d343a56449c5894d1e451629d00000000"/>
+		<Metadata name="DataProcessor.SDKWA.Template.ИконкаWhatsApp" id="f16942f7-c13c-4bb8-888f-98ec1d80b35d" configVersion="9c2e4a4b3889644ea1717e4bd45846b200000000"/>
+		<Metadata name="DataProcessor.SDKWA.Template.ИконкаWhatsApp.Template" id="f16942f7-c13c-4bb8-888f-98ec1d80b35d.0" configVersion="e14776992baef14d87268b1835bfbf2100000000"/>
+		<Metadata name="DataProcessor.SDKWA.Template.ИконкаФиниш" id="19009793-398e-48c9-a5f1-2d9f4784f736" configVersion="23d3522110d7454981ab137059f651a500000000"/>
+		<Metadata name="DataProcessor.SDKWA.Template.ИконкаФиниш.Template" id="19009793-398e-48c9-a5f1-2d9f4784f736.0" configVersion="78660132a1960b4e8af238c84db6297d00000000"/>
+		<Metadata name="DataProcessor.SDKWA.Template.СканQR" id="6b2f2ecd-6863-4b42-90d4-be5d23472c8c" configVersion="56f06cc7a0a4db418ff3898b51a4ad4300000000"/>
+		<Metadata name="DataProcessor.SDKWA.Template.СканQR.Template" id="6b2f2ecd-6863-4b42-90d4-be5d23472c8c.0" configVersion="0dbc609233f78d45b16d96bf4e8de03e00000000"/>
+		<Metadata name="Language.Русский" id="4c15b64d-a55e-47ed-b29e-0a8e70ab6712" configVersion="679a2b028fd6ef4cb637d0a653f73f3f00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
